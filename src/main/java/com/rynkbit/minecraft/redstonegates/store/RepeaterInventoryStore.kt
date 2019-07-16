@@ -1,6 +1,6 @@
-package com.rynkbit.minecraft.store
+package com.rynkbit.minecraft.redstonegates.store
 
-import com.rynkbit.minecraft.RepeaterInventoryHolder
+import com.rynkbit.minecraft.redstonegates.RepeaterInventoryHolder
 import org.bukkit.block.Block
 
 class RepeaterInventoryStore {

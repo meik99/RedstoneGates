@@ -1,6 +1,6 @@
-package com.rynkbit.minecraft.entitiy
+package com.rynkbit.minecraft.redstonegates.entitiy
 
-import com.rynkbit.minecraft.reflection.RepeaterReflection
+import com.rynkbit.minecraft.redstonegates.reflection.RepeaterReflection
 import org.bukkit.inventory.ItemStack
 
 class RepeaterALU(val content: Array<ItemStack>, val repeaterGate: RepeaterGate) {

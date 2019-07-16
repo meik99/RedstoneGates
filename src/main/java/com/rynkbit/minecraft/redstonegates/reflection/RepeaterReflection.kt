@@ -1,4 +1,4 @@
-package com.rynkbit.minecraft.reflection
+package com.rynkbit.minecraft.redstonegates.reflection
 
 import org.bukkit.Bukkit
 import org.bukkit.Material

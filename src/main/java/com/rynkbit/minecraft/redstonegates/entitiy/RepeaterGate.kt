@@ -1,4 +1,4 @@
-package com.rynkbit.minecraft.entitiy
+package com.rynkbit.minecraft.redstonegates.entitiy
 
 import org.bukkit.block.Block
 import org.bukkit.block.BlockFace

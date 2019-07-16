@@ -1,4 +1,4 @@
-package com.rynkbit.minecraft
+package com.rynkbit.minecraft.redstonegates
 
 import org.bukkit.Bukkit
 import org.bukkit.event.Listener

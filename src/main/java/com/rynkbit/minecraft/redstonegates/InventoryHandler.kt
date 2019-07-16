@@ -1,10 +1,9 @@
-package com.rynkbit.minecraft
+package com.rynkbit.minecraft.redstonegates
 
-import com.rynkbit.minecraft.store.InventoryContentStore
-import com.rynkbit.minecraft.store.RepeaterInventoryStore
+import com.rynkbit.minecraft.redstonegates.store.InventoryContentStore
+import com.rynkbit.minecraft.redstonegates.store.RepeaterInventoryStore
 import org.bukkit.block.Block
 import org.bukkit.entity.Player
-import org.bukkit.inventory.ItemStack
 
 class InventoryHandler(
         val repeaterInventoryStore: RepeaterInventoryStore,

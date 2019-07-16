@@ -1,4 +1,4 @@
 name: RedstoneGatesPlugin
 version: 1.0
 api-version: 1.13
-main: com.rynkbit.minecraft.RedstoneGatesPlugin
+main: com.rynkbit.minecraft.redstonegates.RedstoneGatesPlugin

@@ -1,10 +1,10 @@
-package com.rynkbit.minecraft
+package com.rynkbit.minecraft.redstonegates
 
-import com.rynkbit.minecraft.listener.CurrentChangeListener
-import com.rynkbit.minecraft.listener.RepeaterListener
-import com.rynkbit.minecraft.store.InventoryContentStore
-import com.rynkbit.minecraft.store.RepeaterInventoryStore
-import com.rynkbit.minecraft.store.RepeaterStore
+import com.rynkbit.minecraft.redstonegates.listener.CurrentChangeListener
+import com.rynkbit.minecraft.redstonegates.listener.RepeaterListener
+import com.rynkbit.minecraft.redstonegates.store.InventoryContentStore
+import com.rynkbit.minecraft.redstonegates.store.RepeaterInventoryStore
+import com.rynkbit.minecraft.redstonegates.store.RepeaterStore
 import org.bukkit.plugin.java.JavaPlugin
 
 class RedstoneGatesPlugin : JavaPlugin() {

@@ -1,4 +1,4 @@
-package com.rynkbit.minecraft.store
+package com.rynkbit.minecraft.redstonegates.store
 
 import org.bukkit.block.Block
 

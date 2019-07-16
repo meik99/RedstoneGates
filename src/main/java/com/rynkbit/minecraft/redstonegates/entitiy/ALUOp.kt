@@ -1,4 +1,4 @@
-package com.rynkbit.minecraft.entitiy
+package com.rynkbit.minecraft.redstonegates.entitiy
 
 import org.bukkit.Material
 import org.bukkit.inventory.ItemStack

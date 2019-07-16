@@ -1,10 +1,10 @@
-package com.rynkbit.minecraft.listener
+package com.rynkbit.minecraft.redstonegates.listener
 
-import com.rynkbit.minecraft.entitiy.RepeaterALU
-import com.rynkbit.minecraft.entitiy.RepeaterGate
-import com.rynkbit.minecraft.store.InventoryContentStore
-import com.rynkbit.minecraft.store.RepeaterInventoryStore
-import com.rynkbit.minecraft.store.RepeaterStore
+import com.rynkbit.minecraft.redstonegates.entitiy.RepeaterALU
+import com.rynkbit.minecraft.redstonegates.entitiy.RepeaterGate
+import com.rynkbit.minecraft.redstonegates.store.InventoryContentStore
+import com.rynkbit.minecraft.redstonegates.store.RepeaterInventoryStore
+import com.rynkbit.minecraft.redstonegates.store.RepeaterStore
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
 import org.bukkit.event.block.BlockRedstoneEvent

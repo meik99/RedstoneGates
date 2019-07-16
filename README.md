@@ -28,9 +28,9 @@ are marked with an X, slots that are not marked with an X must remain empty.
 | NOT*  |        | X      | X      |        |        |        |        |        |        |
 | NOP** |        |        |        |        |        |        |        |        |        |
 
-* The NOT-operation does only use the left input. The right side does not need to be connected to any redstone wire.
+*The NOT-operation does only use the left input. The right side does not need to be connected to any redstone wire.
 
-** The NOP-operation lets the repeater work as a normal repeater. No gate will be simulated.
+**The NOP-operation lets the repeater work as a normal repeater. No gate will be simulated.
 
 The repeater has nine inventory slots, because the API only allows the creation of inventories, that have a multiple of
 nine as slot size.
